@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+.box{
+    width: 100%;
+    height: 500px;
+    margin: 0;
+    background-image: url(../skate.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.box2{
+    width: 100%;
+    height: 500px;
+    margin: 0;
+    background-image: url(../pexels-jplenio-3131634.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.letras{
+    padding: 20px;
+    margin: 0;
+    background-color: #eac761;
+    color: #7d7769;
+    border-bottom: 10px solid #f75e50;
+    border-top: 10px solid #f75e50;
+    font-size: 10px;
+}
+h1{
+    font-weight: 100;
+}
+.letras-arriba{
+    padding: 20px;
+    margin: 0;
+    background-color: #eac761;
+    color: #7d7769;
+    border-bottom: 10px solid #f75e50;
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+}
+.letras-arriba img{
+    width: 30%;
+    height: 30%;
+    margin: 20px;
+}
